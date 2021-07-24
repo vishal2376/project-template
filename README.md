@@ -1,7 +1,7 @@
 
-# project-template
+# C++ Project Template Generator
 
-Repository description here
+Genrate a basic project code template along with makefile and header files
 
 <p align="center">
 	<a href="https://github.com/vishal2376/project-template/issues">
@@ -16,27 +16,35 @@ Repository description here
 </p>
 
 
-## Run Locally
+## Build and Run
 
 ```bash
   git clone  https://github.com/vishal2376/project-template
   cd project-template
-  pip install -r requirements.txt
-  python3 bot.py
+  make
+  ./main
 ```
 
 
 ## Screeshots :
 
-<img src="screenshots/main-menu.png" height="200px">
-<img src="screenshots/show.png" height="200px">
+<img src="screenshots/run.png" height="200px">
 
+- main.cpp
 
-## Features
+<img src="screenshots/main.png" height="200px">
 
- - first
- - Second
- - third feature
+- student.h
+
+<img src="screenshots/header.png" height="200px">
+
+- student.cpp
+
+<img src="screenshots/headercpp.png" height="200px">
+
+- makefile
+
+<img src="screenshots/make.png" height="200px">
 
 
 ## More projects : 
