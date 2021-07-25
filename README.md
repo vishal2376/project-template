@@ -1,7 +1,7 @@
 
 # C++ Project Template Generator
 
-Genrate a basic project code template along with makefile and header files
+Automatically generate basic sample project template along with makefile and header files
 
 <p align="center">
 	<a href="https://github.com/vishal2376/project-template/issues">
