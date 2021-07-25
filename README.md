@@ -13,18 +13,7 @@ Automatically generate basic sample project template along with makefile and hea
 	<a href="https://github.com/vishal2376/project-template/blob/master/LICENSE">
 	<img src="https://img.shields.io/github/license/vishal2376/project-template"/>
 	</a>
-</p>
-
-
-## Build and Run
-
-```bash
-  git clone  https://github.com/vishal2376/project-template
-  cd project-template
-  make
-  ./main
-```
-
+</p> 
 
 ## Screeshots :
 
